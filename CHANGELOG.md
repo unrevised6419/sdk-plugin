@@ -1,5 +1,11 @@
 # @strapi/sdk-plugin
 
+## 6.0.2
+
+### Patch Changes
+
+- [#117](https://github.com/strapi/sdk-plugin/pull/117) [`6a61df0`](https://github.com/strapi/sdk-plugin/commit/6a61df07c743fb27158eac2b7092ac62fba16f5f) Thanks [@jhoward1994](https://github.com/jhoward1994)! - include all source files for type declaration
+
 ## 6.0.1
 
 ### Patch Changes
